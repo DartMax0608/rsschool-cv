@@ -1,5 +1,5 @@
 # Max Pototskiy 
-![my face](E:\Бусинка-Водитель\domarkovaphoto_0008.jpg my face)
+![my face](/rsschool-cv/domarkovaphoto_0049.jpg "my face")
 
 Worked for his life in different areas of trade in different positions. For the last four and a half years I have been working as a sales representative for British American Tobacco. At the moment I want to change my occupation and become a front-end developer.
 
@@ -33,3 +33,5 @@ public class Credit04 {
     }
 }
 ```
+
+[def]: /
