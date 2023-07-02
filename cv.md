@@ -42,3 +42,7 @@ Economic, World economy) ended 2017
 * Russian - Native
 * Belarusian - Native 
 * English - B1 - Intermediate
+### My contacts:
+* [This my VK](https://vk.com/id94601762)
+* [My Mail](dartmax1953@gmail.com)
+* [My Discord](@DartMax0608)
