@@ -33,5 +33,12 @@ public class Credit04 {
     }
 }
 ```
+## Education: 
+* Higher (Belarusian State University, Minsk
+Economic, World economy) ended 2017
+* Additional (IT academy Basic Java course) ended June 2022
 
-[def]: /
+## Languages:
+* Russian - Native
+* Belarusian - Native 
+* English - B1 - Intermediate
