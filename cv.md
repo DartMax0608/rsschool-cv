@@ -46,3 +46,4 @@ Economic, World economy) ended 2017
 * [This my VK](https://vk.com/id94601762)
 * [My Mail](dartmax1953@gmail.com)
 * [My Discord](@DartMax0608)
+* [my telegram](@MaxPototskiy)
