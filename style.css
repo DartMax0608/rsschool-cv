@@ -1,9 +1,17 @@
 .body {
     font-family: 'Oswald', sans-serif;
+    display: flex;
     min-height: 100vh;
     margin: 0;
     padding: 0;
 }
 .header {
-    border: 1px solid rgb(255, 111, 0);
+    border: 5px solid rgb(255, 111, 0);
+}
+.nav {
+    display: flex;
+    justify-content: right;
+}
+.nav-link {
+    font-family: 'Courier New', Courier, monospace;
 }
