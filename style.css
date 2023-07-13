@@ -1,3 +1,9 @@
 .body {
     font-family: 'Oswald', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    border: 1px solid rgb(255, 111, 0);
 }
